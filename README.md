@@ -4,7 +4,7 @@
 
 <h1 align="center">Telegram YouTube Video Contest Bot</h1>
 
-Telegram Bot written using GoLang for hosting contests in Telegram chats
+Telegram Bot written using GoLang for hosting contests in Telegram chats. Main goal of this project is deeper learning DataBases
 
 ## Bot id
 
